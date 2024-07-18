@@ -55,4 +55,21 @@ Existen diferentes tipos de pruebas como lo son :
 ### Practica 
 ![image](https://github.com/user-attachments/assets/62f8821c-9c97-459d-80d7-b688aef1b2a7)
 
+### Ejecutando 1 y 2  
+en el package.json existen diferentes varias pruebas unitarias de las cuales vamos a ejecutar
 
+![image](https://github.com/user-attachments/assets/b563b669-819c-42a3-ba96-f65901573b47)
+
+si modificamos un parametro, como por ejemplo en el app.controller.spec.ts en vez de enviar hello world, enviamos hola mundo se genera lo siguiente: 
+
+![image](https://github.com/user-attachments/assets/581797ba-9a4c-48ef-9b68-d7c764ab3c33)
+
+otro ejemplo
+![image](https://github.com/user-attachments/assets/e7592f1e-6111-4539-b67a-5db9d8b96004)
+
+
+### ejecutando el 3er punto
+
+generamos un nuevo servicio, nuevo controller y un nuevo test
+
+![image](https://github.com/user-attachments/assets/dfd7daef-d4c2-4244-a6ea-7d71769a1fbd)
